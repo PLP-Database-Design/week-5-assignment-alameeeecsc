@@ -97,3 +97,4 @@ Create a ```GET``` endpoint that retrieves all providers by their specialty
 
 
 ## NOTE: Do not fork this repository
+
